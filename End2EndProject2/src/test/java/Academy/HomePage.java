@@ -35,7 +35,13 @@ public class HomePage extends Base {
 		LoginPage lp = new LoginPage(driver);
 		lp.getEmail().sendKeys(name);
 		log.info("EmailID is sent");
+		log.info("EmailID is sent");
+		log.info("EmailID is sent");
+		log.info("EmailID is sent");
 		lp.getPasswd().sendKeys(psswd);
+		log.info("Password is sent");
+		log.info("Password is sent");
+		log.info("Password is sent");
 		log.info("Password is sent");
 		lp.getLogin().click();
 		log.info("Clicked Login");
