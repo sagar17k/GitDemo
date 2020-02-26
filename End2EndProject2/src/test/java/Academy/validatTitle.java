@@ -22,6 +22,9 @@ public class validatTitle extends Base {
 		driver = initializeDriver();
 		driver.get(prop.getProperty("url"));
 		log.info("Driver is initialized");
+		log.info("Driver is initialized");
+		log.info("Driver is initialized");
+		log.info("Driver is initialized");
 	}
 	
 	@Test
