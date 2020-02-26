@@ -59,6 +59,13 @@ public class HomePage extends Base {
 		driver=null;
 	}
 	
+	@AfterTest
+	public void teardown2()
+	{
+		driver.close();
+		driver=null;
+	}
+	
 	@DataProvider
 	public Object[][] getData() {
 		
