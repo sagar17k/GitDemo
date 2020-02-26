@@ -37,6 +37,10 @@ public class validatTitle extends Base {
 		log.info("Details are displayed");
 		log.info("Details are displayed");
 		log.info("Details are displayed");
+		log.info("Details are displayed");
+		log.info("Details are displayed");
+		log.info("Details are displayed");
+		log.info("Details are displayed");
 		
 	}
 	

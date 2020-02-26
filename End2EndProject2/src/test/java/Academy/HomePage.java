@@ -39,6 +39,10 @@ public class HomePage extends Base {
 		log.info("Password is sent");
 		lp.getLogin().click();
 		log.info("Clicked Login");
+		log.info("Details are displayed");
+		log.info("Details are displayed");
+		log.info("Details are displayed");
+		log.info("Details are displayed");
 		
 	}
 	
