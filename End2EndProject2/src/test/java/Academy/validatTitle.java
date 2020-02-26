@@ -32,6 +32,8 @@ public class validatTitle extends Base {
 		//.Assert.assertEquals(ld.getTitle(), "Featured Courses");
 		Assert.assertFalse(ld.getTitle().isDisplayed());
 		log.info("Details are displayed");
+		log.info("Details are displayed");
+		log.info("Details are displayed");
 		
 	}
 	
